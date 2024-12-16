@@ -71,5 +71,12 @@ export const organizationSignees = [
     signDate: "2024-12-10",
     signedBy: "Jayz",
   },
+  {
+    name: "ICP Protector",
+    logo: "./ICPProtector-logo-organization-signee.png",
+    url: "https://icprotector.io/",
+    signDate: "2024-12-16",
+    signedBy: "ICProtector",
+  },
 ];
   
